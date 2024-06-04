@@ -40,6 +40,6 @@ The Implementation includes:
 ## Diagrams and Illustrations
 
 - **4-bit Ripple Counter Circuit**: ![4-bit Ripple Counter]()
-- **Timing Diagram of Ripple Counter**: ![Timing Diagram]()
+- **Timing Diagram of Ripple Counter**: ![Timing Diagram](nbit_async_Counter/tests/Modelsim simulations.png)
 
 
