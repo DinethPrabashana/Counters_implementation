@@ -31,12 +31,11 @@ Counters are sequential circuits that go through a prescribed sequence of states
 - **Description**: A circular shift register where the output of the last flip-flop is fed to the first.
 - **Example**: Often used in sequence generation and timing applications.
 
-## Project Details
+## Implementation Details
 
-The project includes:
+The Implementation includes:
 - Verilog code for the N-bit ripple counter.
 - Testbenches for simulation.
-- Implementation guidelines and detailed comments within the code.
 
 ## Diagrams and Illustrations
 
