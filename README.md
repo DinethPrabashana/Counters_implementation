@@ -1,4 +1,4 @@
-#Counters 
+# Counters 
 This repository consist of various counter implementations, Including Asynchronus Ripple Carry Counter , Pressettable Counter , Ring Counter ,and Synchronus Counters.
 In digital circuits, a counter is a sequential logic circuit consisting of a series of flip-flops connected in such a way that they count the number of clock pulses. Counters can be designed to count upwards (incrementing) or downwards (decrementing) and can be set to count in binary or other number systems (such as BCD—Binary Coded Decimal).
 
